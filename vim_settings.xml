@@ -9,9 +9,30 @@
         <mark key="^" line="90" column="9" />
         <mark key="." line="90" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/mazrica/sense-web/app/scripts/controllers/user.js" timestamp="1461920859134">
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="52" column="4" />
+        <mark key="." line="52" column="4" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text>$scope.delet</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>$scope.delet</text>
+      </register>
+      <register name="2" type="4">
+        <text>$scope.delet</text>
+      </register>
+      <register name="3" type="4">
+        <text>Invites.unact</text>
+      </register>
+      <register name="-" type="4">
+        <text>$scope.delet</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -28,6 +49,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
