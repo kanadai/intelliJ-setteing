@@ -498,6 +498,13 @@
         <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="e784a2" />
+        <option name="BACKGROUND" value="21282d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="93c763" />
