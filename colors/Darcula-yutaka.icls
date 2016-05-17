@@ -21,9 +21,19 @@
         <option name="FOREGROUND" value="96e285" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="f1d0bb" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="dceaf9" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ffd17f" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
