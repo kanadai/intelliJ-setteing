@@ -12,18 +12,28 @@
     </option>
     <option name="JS.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="86c577" />
+        <option name="FOREGROUND" value="629755" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="96e285" />
+        <option name="FOREGROUND" value="77b767" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="f1d0bb" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="dceaf9" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ffd17f" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
@@ -37,9 +47,14 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="b6c4d3" />
+      </value>
+    </option>
     <option name="JS.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="80cdce" />
+        <option name="FOREGROUND" value="89cbcf" />
       </value>
     </option>
     <option name="JS.REGEXP">
@@ -55,7 +70,7 @@
     </option>
     <option name="JS.STRING">
       <value>
-        <option name="FOREGROUND" value="5eb155" />
+        <option name="FOREGROUND" value="9bbe8c" />
       </value>
     </option>
     <option name="JS.VALID_STRING_ESCAPE">
