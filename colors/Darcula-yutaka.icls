@@ -78,6 +78,21 @@
         <option name="FOREGROUND" value="cc62c0" />
       </value>
     </option>
+    <option name="JSON.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="909090" />
+      </value>
+    </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="c594d8" />
+      </value>
+    </option>
+    <option name="JSON.STRING">
+      <value>
+        <option name="FOREGROUND" value="7e9b6c" />
+      </value>
+    </option>
     <option name="RUBY_LOCAL_VAR_ID">
       <value>
         <option name="FOREGROUND" value="8dca" />
