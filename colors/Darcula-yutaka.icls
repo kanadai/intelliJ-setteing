@@ -23,12 +23,12 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="f1d0bb" />
+        <option name="FOREGROUND" value="d17fff" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="dceaf9" />
+        <option name="FOREGROUND" value="f2ddff" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -38,18 +38,18 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="c594d8" />
+        <option name="FOREGROUND" value="b6c4d3" />
       </value>
     </option>
     <option name="JS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="e784a2" />
+        <option name="FOREGROUND" value="e788bd" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="b6c4d3" />
+        <option name="FOREGROUND" value="dbda8a" />
       </value>
     </option>
     <option name="JS.PARAMETER">
@@ -64,7 +64,7 @@
     </option>
     <option name="JS.STATIC_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="9a77ac" />
+        <option name="FOREGROUND" value="e1aaf5" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
