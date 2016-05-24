@@ -9,60 +9,28 @@
         <mark key="^" line="90" column="9" />
         <mark key="." line="90" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/mazrica/sense-web/app/index.html" timestamp="1464061582224" />
-      <file name="$USER_HOME$/projects/mazrica/sense-web/app/styles/base/_side-menu.scss" timestamp="1464053880971">
-        <mark key="[" line="18" column="15" />
-      </file>
       <file name="$USER_HOME$/projects/mazrica/sense-web/app/scripts/controllers/user.js" timestamp="1461920859134">
         <mark key="[" line="52" column="4" />
         <mark key="]" line="52" column="4" />
         <mark key="." line="52" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/mazrica/sense-web/app/scripts/components/phase-list/phase-list.js" timestamp="1464061527846">
-        <mark key="[" line="13" column="114" />
-        <mark key="]" line="13" column="114" />
-        <mark key="." line="13" column="114" />
-        <mark key="^" line="14" column="5" />
-      </file>
-      <file name="$USER_HOME$/projects/mazrica/sense-web/app/views/deal-editor.html" timestamp="1464061246234" />
-      <file name="$USER_HOME$/projects/mazrica/sense-web/app/scripts/components/phase-list/phase-list.html" timestamp="1464061486188">
-        <mark key="[" line="3" column="55" />
-      </file>
-      <file name="$USER_HOME$/projects/mazrica/sense-web/app/scripts/controllers/deal-editor.js" timestamp="1464061263865" />
     </filemarks>
-    <jumps>
-      <jump line="17" column="8" filename="$USER_HOME$/projects/mazrica/sense-web/app/scripts/components/phase-list/phase-list.js" />
-    </jumps>
+    <jumps />
     <registers>
       <register name="1" type="4">
-        <text>MessageDialog, ConfirmDialog)</text>
+        <text>$scope.delet</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MessageDialog, ConfirmDialog)</text>
+        <text>$scope.delet</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>$scope.delet</text>
       </register>
       <register name="3" type="4">
-        <text>$scop</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5jb25maXJtQ3JlYXRlUGhhc2VzID0gZnVuY3Rpb24oZXYpIHsKICAgICAgaWYgKCRzY29wZS5waGFzZXMpIHsKICAgICAgICBDb25maXJtRGlhbG9nLm9wZW4oJycsJ+ODleOCp+ODvOOCuuioreWumuOCkuabtOaWsOOBl+OBpuOCiOOCjeOBl+OBhOOBp+OBmeOBi++8nycsdHJ1ZSkudGhlbihmdW5jdGlvbigpIHsKICAgICAgICAgICRzY29wZS5jcmVhdGVQaGFzZXMoKTsKICAgICAgICB9LCBmdW5jdGlvbigpIHsKICAgICAgICAgIE1lc3NhZ2VEaWFsb2cub3Blbign44OV44Kn44O844K66Kit5a6aJywgJ+OCreODo+ODs+OCu+ODq+OBl+OBvuOBl+OBnycpOwogICAgICAgIH0pOwogICAgICB9IGVsc2UgewogICAgICAgIE1lc3NhZ2VEaWFsb2cub3Blbign44OV44Kn44O844K66Kit5a6aJywgJ+ODgeODo+ODjeODq+OBr++8keOBpOS7peS4iueZu+mMsuOBl+OBpuOBj+OBoOOBleOBhCcpKCk7CiAgICAgIH0KICAgIH07CgogICAgJHNjb3BlLmNyZWF0ZVBoYXNlcyA9IGZ1bmN0aW9uICgpIHsKICAgICAgJHNjb3BlLmlzUGhhc2VDcmVhdGluZyA9IHRydWU7CiAgICAgIERvbWFpbnMucG9zdFBoYXNlcyh7cGhhc2VzOiAkc2NvcGUucGhhc2VzfSkKICAgICAgICAuc3VjY2VzcyhmdW5jdGlvbiAoZGF0YSwgc3RhdHVzLCBoZWFkZXJzLCBjb25maWcpIHsKICAgICAgICAgICRzY29wZS5waGFzZXMgPSBkYXRhOwogICAgICAgIH0pCiAgICAgICAgLnN1Y2Nlc3MoTWVzc2FnZURpYWxvZy5vcGVuKCfjg5Xjgqfjg7zjgrroqK3lrponLCAn55m76Yyy44GX44G+44GX44GfJykpCiAgICAgICAgLmVycm9yKGZ1bmN0aW9uIChkYXRhLCBzdGF0dXMsIGhlYWRlcnMsIGNvbmZpZykgewogICAgICAgICAgY29uc29sZS5sb2coJ2Vycm9yOicgKyBzdGF0dXMpOwogICAgICAgIH0pCiAgICAgICAgLmVycm9yKGZ1bmN0aW9uIChkYXRhLCBzdGF0dXMsIGhlYWRlcnMsIGNvbmZpZykgewogICAgICAgICAgbG9hZFBoYXNlcygpOwogICAgICAgICAgaWYgKGRhdGEubWVzc2FnZXMgJiYgZGF0YS5tZXNzYWdlcy5sZW5ndGggPiAwKSB7CiAgICAgICAgICAgIChNZXNzYWdlRGlhbG9nLm9wZW4oJ+ODleOCp+ODvOOCuuioreWumicsIGRhdGEubWVzc2FnZXMuam9pbignXG4nKSkoKSk7CiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAoTWVzc2FnZURpYWxvZy5vcGVuKCfjg5Xjgqfjg7zjgrroqK3lrponLCAn55m76Yyy44Gn44GN44G+44Gb44KT44Gn44GX44GfJykoKSk7CiAgICAgICAgICB9CiAgICAgICAgfSkKICAgICAgICAuZmluYWxseShmdW5jdGlvbigpewogICAgICAgICAgJHNjb3BlLmlzUGhhc2VDcmVhdGluZyA9IGZhbHNlOwogICAgICAgIH0pOwogICAgfTsKCiAgICAkc2NvcGUuYWRkUGhhc2UgPSBmdW5jdGlvbigpIHsgJHNjb3BlLnBoYXNlcy5wdXNoKHsgZGVsZXRlZDogZmFsc2UgfSk7IH07CgogICAgJHNjb3BlLnJlbW92ZVBoYXNlID0gZnVuY3Rpb24oaWR4KSB7CiAgICAgIGlmICgkc2NvcGUucGhhc2VzW2lkeF0uaWQpIHsKICAgICAgICBpZiAoJHNjb3BlLnBoYXNlc1tpZHhdLnVzZWQpIHsKICAgICAgICAgICRzY29wZS5waGFzZXNbaWR4XS5kZWxldGVkID0gZmFsc2U7CiAgICAgICAgfQogICAgICB9IGVsc2UgewogICAgICAgICRzY29wZS5waGFzZXMuc3BsaWNlKGlkeCwgMSk7CiAgICAgIH0KICAgIH07CgogICAgJHNjb3BlLnNob3dJbmZvUGhhc2VzQ3VzdG9tID0gZnVuY3Rpb24oKSB7CiAgICAgIHZhciBtID0gJzxwIGNsYXNzPSJoZWxwLW1lc3NhZ2UiPic7CiAgICAgIG0gKz0gJ+iHquekvuOBruWWtualrea0u+WLleOBq+WNs+OBl+OBn+ODleOCp+ODvOOCuuOCkuioreWumuOBp+OBjeOBvuOBmeOAgic7CiAgICAgIG0gKz0gJzwvcD48cCBjbGFzcz0iaGVscC1tZXNzYWdlIHdhcm5pbmctbWVzc2FnZSI+JzsKICAgICAgbSArPSAn4oC755m76Yyy5Lit44Gu5qGI5Lu244Gn5L2/55So44GX44Gm44GE44KL44OV44Kn44O844K644Gv5YmK6Zmk44Gn44GN44G+44Gb44KT44CC6Kmy5b2T5qGI5Lu244Gu44OV44Kn44O844K644KS5aSJ5pu044GZ44KL44Go44CB5YmK6Zmk5Y+v6IO944Go44Gq44KK44G+44GZ44CCPGJyPic7CiAgICAgIG0gKz0gJ+KAu+ioreWumuOCkuacieWKueOBq+OBmeOCi+OBq+OBr+WGjeODreOCsOOCpOODs+OBjOW/heimgeOBp+OBmeOAgic7CiAgICAgIG0gKz0gJzwvcD4nOwogICAgICBDb25maXJtRGlhbG9nLm9wZW4oJ+ODleOCp+ODvOOCuuioreWumicsIG0sIGZhbHNlKSgpOwogICAgfTsKICB9XSk7Cgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGxvYWRQaGFzZXMoKSB7CiAgICAgIERvbWFpbnMuZ2V0UGhhc2VzKCkudGhlbihmdW5jdGlvbiAoZGF0YSkgewogICAgICAgICRzY29wZS5waGFzZXMgPSBkYXRhOwogICAgICB9KTsKICAgIH0KICAgIGxvYWRQaGFzZXMoKTsK</text>
-      </register>
-      <register name="6" type="4">
-        <text>$scope.delet</text>
-      </register>
-      <register name="7" type="4">
-        <text>$scope.delet</text>
-      </register>
-      <register name="8" type="4">
         <text>Invites.unact</text>
       </register>
       <register name="-" type="4">
-        <text>MessageDialog, ConfirmDialog)</text>
+        <text>$scope.delet</text>
       </register>
     </registers>
     <search>
